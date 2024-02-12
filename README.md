@@ -1,4 +1,4 @@
-# Wordy2022-5
+# Wordy
 ## GAME INSTRUCTIONS:
 
 Goal: Guess a 5-letter word within 6 attempts
